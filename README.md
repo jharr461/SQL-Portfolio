@@ -20,4 +20,4 @@ I'm Jerome Harrison, an Information Systems graduate from Kennesaw State Univers
 4. **Customer Segmentation and Insights:**
    In this, we can see how SQL empowers customer segmentation for targeted marketing strategies. Learn how clustering techniques and SQL queries can categorize customers, leading to personalized engagement, improved retention, and higher conversions.
 
-Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jerome-harrison-8b6984177/)
+Connect with me on LinkedIn: [https://www.linkedin.com/in/jerome-harrison-8b6984177/]
