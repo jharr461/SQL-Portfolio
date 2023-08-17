@@ -8,16 +8,16 @@ I'm Jerome Harrison, an Information Systems graduate from Kennesaw State Univers
 
 ## Projects Overview
 
-1. **Website Traffic and User Behavior Analysis:**
+1. **[Website Traffic and User Behavior Analysis]([Website_Traffic_Analysis_SQL_Project.sql](https://github.com/jharr461/SQL-Portfolio/blob/main/Website_Traffic_Analysis_SQL_Project.sql)):**
    This explores how SQL can be leveraged to analyze website traffic and user behavior. I dive into datasets, calculate crucial metrics, and reveal patterns in user engagement, peak traffic days, and average time spent on the website. Discover how this analysis aids in optimizing resource allocation, enhancing user engagement, and guiding content strategies.
 
-2. **E-commerce Sales Performance Evaluation:**
+2. **[E-commerce Sales Performance Evaluation]([ECommerce_Sales_Analysis_SQL_Project.sql](https://github.com/jharr461/SQL-Portfolio/blob/main/ECommerce_Sales_Analysis_SQL_Project.sql))**
    This is an in-depth analysis of e-commerce sales data using SQL. Uncover trends in sales performance, customer behaviors, and product popularity. Through SQL queries, I provide insights that inform strategic decisions, inventory management, and marketing campaigns.
 
-3. **Financial Data Exploration:**
+3. **[Financial Data Exploration](https://github.com/jharr461/SQL-Portfolio/blob/main/ECommerce_Sales_Analysis_SQL_Project.sql):**
    This is an example of financial data exploration with SQL. I showcase the process of aggregating financial metrics, analyzing trends in revenue, expenses, and profitability, and presenting findings through clear visualizations.
 
-4. **Customer Segmentation and Insights:**
+4. **[Customer Segmentation and Insights](https://github.com/jharr461/SQL-Portfolio/blob/main/Customer_Segmentation_and_Insights_SQL_Project.sql):**
    In this, we can see how SQL empowers customer segmentation for targeted marketing strategies. Learn how clustering techniques and SQL queries can categorize customers, leading to personalized engagement, improved retention, and higher conversions.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jerome-harrison-8b6984177/)
